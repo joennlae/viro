@@ -1,7 +1,7 @@
 {
-  "name": "react-viro",
+  "name": "@joennlae/react-viro",
   "main": "index.js",
-  "version": "2.18.0",
+  "version": "2.17.5",
   "license": "MIT",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
@@ -29,5 +29,13 @@
     "prop-types": "^15.5.10",
     "react": "^16.9.0",
     "react-native": "^0.61.5"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joennlae/viro.git"
   }
 }
